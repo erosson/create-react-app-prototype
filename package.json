@@ -7,7 +7,8 @@
   },
   "dependencies": {
     "react": "^15.3.1",
-    "react-dom": "^15.3.1"
+    "react-dom": "^15.3.1",
+    "swarm-numberformat": "^0.0.4"
   },
   "homepage": "https://erosson.github.io/create-react-app-prototype",
   "scripts": {
